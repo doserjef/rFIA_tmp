@@ -27,6 +27,7 @@ export(biomass)
 export(carbon)
 export(vitalRates)
 export(growMort)
+export(area)
 
 
 import(bit64)
