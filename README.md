@@ -7,10 +7,7 @@
 [![Codecov test
 coverage](https://codecov.io/gh/doserjef/rFIA/branch/main/graph/badge.svg)](https://app.codecov.io/gh/doserjef/rFIA?branch=main)
 
-<figure>
-<img src="man/figures/usBiomass.jpg" alt="US Biomass" />
-<figcaption aria-hidden="true">US Biomass</figcaption>
-</figure>
+![](man/figures/usBiomass.jpg)
 
 **`rFIA` is coming back online!** After a couple years of limited
 support and functioning of `rFIA`, `rFIA` is now being maintained and
@@ -41,8 +38,8 @@ the GitHub version of this package.
 | `area()`          | Estimate land area in various classes                              | ☑       |
 | `areaChange()`    | Estimate annual change in land area in various classes             |         |
 | `biomass()`       | Estimate biomass and carbon stocks of standing trees               | ☑       |
-| `carbon()`        | Estimate carbon stocks by IPCC forest carbon pools                 |         |
-| `customPSE()`     | Estimate custom variables                                          | ☑       |
+| `carbon()`        | Estimate carbon stocks by IPCC forest carbon pools                 | ☑       |
+| `customPSE()`     | Estimate custom variables                                          |         |
 | `clipFIA()`       | Spatial & temporal queries for FIA data                            | ☑       |
 | `diversity()`     | Estimate diversity indices (e.g. species diversity)                | ☑       |
 | `dwm()`           | Estimate volume, biomass, and carbon stocks of down woody material | ☑       |

@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 [![Codecov test coverage](https://codecov.io/gh/doserjef/rFIA/branch/main/graph/badge.svg)](https://app.codecov.io/gh/doserjef/rFIA?branch=main)
 
 
-![US Biomass](man/figures/usBiomass.jpg)
+![](man/figures/usBiomass.jpg)
 
 **`rFIA` is coming back online!** After a couple years of limited support and functioning of `rFIA`, `rFIA` is now being maintained and further developed by Jeff Doser and the [Statistical Ecology and Forest Science Lab](https://doserlab.com/) at North Carolina State University. We are in the process of actively updating the package, ensuring its compatibility with recent updates in FIA databases, and making other minor changes before the package is uploaded back onto CRAN. 
 
@@ -34,8 +34,8 @@ Functionality is currently being updated and extensively tested. Some previous `
 |`area()`         | Estimate land area in various classes                                | &#x2611;|
 |`areaChange()`   | Estimate annual change in land area in various classes               |         |
 |`biomass()`      | Estimate biomass and carbon stocks of standing trees                 | &#x2611;|
-|`carbon()`       | Estimate carbon stocks by IPCC forest carbon pools                   |
-|`customPSE()`    | Estimate custom variables                                            | &#x2611;|
+|`carbon()`       | Estimate carbon stocks by IPCC forest carbon pools                   | &#x2611;|
+|`customPSE()`    | Estimate custom variables                                            |         |
 |`clipFIA()`      | Spatial & temporal queries for FIA data                              | &#x2611;|
 |`diversity()`    | Estimate diversity indices (e.g. species diversity)                  | &#x2611;|
 |`dwm()`          | Estimate volume, biomass, and carbon stocks of down woody material   | &#x2611;|
